@@ -3,3 +3,5 @@ Informatika 1
 Inf 
 Prezentacija
 Novi branch 
+Hi 
+Bye
